@@ -1,4 +1,27 @@
 body {
     background: grey;
-    
-}
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: normal;
+    text-align: center;
+    line-spacing: double;
+    }
+        h1 {
+            font-color:dark blue;
+            font-size: 26px;
+            font-style: normal;
+        }
+        h2 {
+            font-size:24px;
+            font-style: italic;
+        }
+        #p {
+            text-align: center;
+            color: rgb(85, 48, 88);
+            font-size: 22px;
+        }
+        img {
+            width: 300px;
+            height: 300px;
+            padding-left:600px;
+            padding-right:700px;
+            }
